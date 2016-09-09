@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Async Utils</name>
+  <description>Utilities for running tasks asynchronously</description>
+  <url>https://github.com/topobyte/async-utils</url>
+</project>
